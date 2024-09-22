@@ -56,7 +56,7 @@ En futuros desarrollos, consideramos:
 ### Recursos Útiles
 
 - [JavaScript HTML DOM](https://www.w3schools.com/JS/js_htmldom.asp) - Esta es una excelente referencia para entender cómo manipular el DOM usando JavaScript.
-- [LocalStorage en JavaScript](https://www.w3schools.com/jsref/prop_win_localstorage.asp) - Información sobre cómo usar `localStorage` para almacenar datos en el navegador.
+- [Fetch Api](https://developer.mozilla.org/es/docs/Web/API/Fetch_API) - Referencia para realizar solicitudes HTTP asíncronas.
 
 ## Autores
 
