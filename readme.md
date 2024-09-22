@@ -2,6 +2,8 @@
 
 Esta es una solución para mostrar una tienda de productos con un contador regresivo usando JavaScript y manipulación del DOM, desarrollada durante el curso de Make It Real.
 
+### Link de git hub pages [aquí](https://punobootcamper.github.io/Fake-Store-simple-consumer/)
+
 ## Tabla de contenidos
 
 - [Descripción General](#descripción-general)
