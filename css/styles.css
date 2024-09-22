@@ -18,6 +18,8 @@ body {
   }
 
   .product {
+    display: flex;
+    flex-direction: column;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -67,6 +69,7 @@ body {
 }
 
 .product__actions {
+    margin-top: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
